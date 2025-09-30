@@ -1,0 +1,8 @@
+*.md
+.git
+.github
+.vscode
+tests/
+docs/
+*.test.ts
+*.spec.ts
